@@ -1,2 +1,2 @@
-# Scripting
-Surge script of my own
+# Scripts
+Surge/QX Scripts
