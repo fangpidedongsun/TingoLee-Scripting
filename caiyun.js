@@ -14,5 +14,6 @@ if (url.indexOf(path2) != -1) {
 }
 if (url.indexOf(path3) != -1) {
 	obj.free_download_times_remain = 6;
+	obj.rc = 0;
 }
 $done({body: JSON.stringify(obj)});
